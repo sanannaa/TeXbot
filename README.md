@@ -1,2 +1,2 @@
 # TeXbot
-Discord bot for the TeX users
+Discord bot for the $TeX$ users
